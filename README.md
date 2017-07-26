@@ -1,4 +1,8 @@
-# Contribute Translation
+# Contribution Translate
+
+![logo](./logo.png)
+
+_Icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com_
 
 ## Main Contribution
 

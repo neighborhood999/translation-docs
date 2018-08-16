@@ -2,9 +2,9 @@
 
 ![logo](./logo.png)
 
-_Icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com_
+_Icon made by [freepik](https://www.flaticon.com/authors/freepik) from [flaticon](http://www.flaticon.com/)._
 
-## Main Contribution
+## Contribution
 
 ### JavaScript
 
@@ -15,6 +15,14 @@ _Icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flati
 - [webpack-tutorial](https://github.com/neighborhood999/webpack-tutorial-gitbook)
 
 - [jstips](https://github.com/loverajoel/jstips)
+
+- [redux](https://github.com/chentsulin/redux)
+
+- [graphql](https://github.com/chentsulin/graphql.github.io)
+
+- [relay](https://github.com/chentsulin/relay)
+
+- [mostly-adequate-guide](https://github.com/jigsawye/mostly-adequate-guide)
 
 ### PHP
 

@@ -24,6 +24,8 @@ _Icon made by [freepik](https://www.flaticon.com/authors/freepik) from [flaticon
 
 - [mostly-adequate-guide](https://github.com/jigsawye/mostly-adequate-guide)
 
+- [fantasy-land-traditional-chinese](https://github.com/neighborhood999/fantasy-land-traditional-chinese)
+
 ### PHP
 
 - [laravel-docs](https://github.com/laravel-taiwan/docs)

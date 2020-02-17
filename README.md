@@ -35,3 +35,7 @@ _Icon made by [freepik](https://www.flaticon.com/authors/freepik) from [flaticon
 ### Unix
 
 - [bash-handbook](https://github.com/neighborhood999/bash-handbook/tree/master/translations/zh-TW)
+
+### Go
+
+- [the-little-go-book](https://github.com/kevingo/the-little-go-book)

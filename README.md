@@ -28,6 +28,8 @@ _Icon made by [freepik](https://www.flaticon.com/authors/freepik) from [flaticon
 
 - [zh-hant.reactjs.org](https://github.com/reactjs/zh-hant.reactjs.org)
 
+- [react-fiber-architecture](https://github.com/neighborhood999/react-fiber-architecture-tw)
+
 ### PHP
 
 - [laravel-docs](https://github.com/laravel-taiwan/docs)

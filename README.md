@@ -12,7 +12,7 @@ _Icon made by [freepik](https://www.flaticon.com/authors/freepik) from [flaticon
 
 - [recompose](https://github.com/neighborhood999/recompose)
 
-- [webpack-tutorial](https://github.com/neighborhood999/webpack-tutorial-gitbook)
+- [webpack-tutorial](https://github.com/neighborhood999/webpack-tutorial-gitbook) ([WebpackTutorial](https://github.com/neighborhood999/WebpackTutorial))
 
 - [jstips](https://github.com/loverajoel/jstips)
 

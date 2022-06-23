@@ -1,4 +1,4 @@
-# Contribution Translate
+# Translation Docs
 
 ![logo](./logo.png)
 
